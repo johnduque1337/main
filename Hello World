@@ -1,0 +1,4 @@
+const hello = 'Hello';
+const world = 'World!';
+const hw = hello + world;
+return hw;
