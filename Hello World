@@ -2,3 +2,7 @@ const hello = 'Hello';
 const world = 'World!';
 const hw = hello + world;
 return hw;
+
+
+//this code means nothing
+//all i do is trying to stay alivei n gthb
